@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on <a href="https://alphasphere.trade">Alphasphere AI</a>
 
+- 🧪 Building <a href="https://agenttwin.si/">AgentTwin</a>, a Node.js workflow-testing tool for application and AI-agent failures.
+
 - 🌱 I’m currently learning <b>Data Structures & Algorithms</b>
 
 - 👨‍💻 My Portfolio is <a href="https://sashanksingh.com">https://sashanksingh.com</a>
